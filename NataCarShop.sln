@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NataCarShop", "NataCarShop\NataCarShop.csproj", "{40A8C743-61EF-4A20-B72C-E6602D7AA69F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{7E4B747B-7D13-464E-86D0-BA0A3E3AADEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40A8C743-61EF-4A20-B72C-E6602D7AA69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A8C743-61EF-4A20-B72C-E6602D7AA69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A8C743-61EF-4A20-B72C-E6602D7AA69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A8C743-61EF-4A20-B72C-E6602D7AA69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4B747B-7D13-464E-86D0-BA0A3E3AADEC}.Debug|Any CPU.ActiveCfg = Debug
+		{7E4B747B-7D13-464E-86D0-BA0A3E3AADEC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8099B10-F35E-49D1-A081-573F4ADBF568}
+	EndGlobalSection
+EndGlobal
